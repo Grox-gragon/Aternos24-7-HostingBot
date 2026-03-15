@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "SATFF BOT AFK",
     "password": "",
     "type": "online"
   },
@@ -9,7 +9,7 @@
     "ip": "ahmixtes.aternos.me",
     "port": 13719,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -51,7 +51,7 @@
     "circle-walk": {
       "enabled": true,
       "radius": 256,
-      "speed": 3000
+      "speed": 50000
     },
     "look-around": {
       "enabled": true,
